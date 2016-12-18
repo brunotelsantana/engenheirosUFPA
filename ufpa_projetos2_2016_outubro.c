@@ -62,4 +62,8 @@ int main() {
 	puts("201606840035 - Moisés Lobato Queiroz - http://lattes.cnpq.br/1059234636615212");
 	puts("Meu mantra: Nenhum sucesso na vida compensa o fracasso no lar.\n");     
 
+	puts("201607040029 - Bruno Luiz Ramos Santana - http://lattes.cnpq.br/2962209446112901 \n");
+	puts("Meu mantra: Existe um monte de pequenas razões para as coisas grandes acontecerem em nossas vidas.\n");
+	     
+	     
 }
